@@ -1,2 +1,2 @@
-# aibook
-print a ai book
+## aibook
+Writing a silly book to teach git
